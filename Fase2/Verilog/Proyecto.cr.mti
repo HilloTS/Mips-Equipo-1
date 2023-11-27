@@ -1,0 +1,127 @@
+{D:/Udg/CuartoSemestre/Practicas de Arqui/Proyecto/Fase 1/InstructionFetch.v} {1 {vlog -work work -stats=none {D:\Udg\CuartoSemestre\Practicas de Arqui\Proyecto\Fase 1\InstructionFetch.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module instructionFetch
+
+Top level modules:
+	instructionFetch
+
+} {} {}} {D:/Udg/CuartoSemestre/Practicas de Arqui/Proyecto/Fase 1/InstructionDecode.v} {1 {vlog -work work -stats=none {D:\Udg\CuartoSemestre\Practicas de Arqui\Proyecto\Fase 1\InstructionDecode.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module InstructionDecode
+
+Top level modules:
+	InstructionDecode
+
+} {} {}} {D:/Udg/CuartoSemestre/Practicas de Arqui/Proyecto/Fase 1/Mux_31bits.v} {1 {vlog -work work -stats=none {D:\Udg\CuartoSemestre\Practicas de Arqui\Proyecto\Fase 1\Mux_31bits.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux31bits
+
+Top level modules:
+	Mux31bits
+
+} {} {}} {D:/Udg/CuartoSemestre/Practicas de Arqui/Proyecto/Fase 1/Execution_AdressCalc.v} {1 {vlog -work work -stats=none {D:\Udg\CuartoSemestre\Practicas de Arqui\Proyecto\Fase 1\Execution_AdressCalc.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Execution_AdressCalc
+
+Top level modules:
+	Execution_AdressCalc
+
+} {} {}} {D:/Udg/CuartoSemestre/Practicas de Arqui/Proyecto/Fase 1/Mux_5bits.v} {1 {vlog -work work -stats=none {D:\Udg\CuartoSemestre\Practicas de Arqui\Proyecto\Fase 1\Mux_5bits.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux5bits
+
+Top level modules:
+	Mux5bits
+
+} {} {}} {D:/Udg/CuartoSemestre/Practicas de Arqui/Proyecto/Fase 1/Memoria.v} {1 {vlog -work work -stats=none {D:\Udg\CuartoSemestre\Practicas de Arqui\Proyecto\Fase 1\Memoria.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Memoria
+
+Top level modules:
+	Memoria
+
+} {} {}} {D:/Udg/CuartoSemestre/Practicas de Arqui/Proyecto/Fase 1/Memoria_Instrucciones.v} {1 {vlog -work work -stats=none {D:\Udg\CuartoSemestre\Practicas de Arqui\Proyecto\Fase 1\Memoria_Instrucciones.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Memoriainstrucciones
+
+Top level modules:
+	Memoriainstrucciones
+
+} {} {}} {D:/Udg/CuartoSemestre/Practicas de Arqui/Proyecto/Fase 1/ALU.v} {1 {vlog -work work -stats=none {D:\Udg\CuartoSemestre\Practicas de Arqui\Proyecto\Fase 1\ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} {D:/Udg/CuartoSemestre/Practicas de Arqui/Proyecto/Fase 1/PC.v} {1 {vlog -work work -stats=none {D:\Udg\CuartoSemestre\Practicas de Arqui\Proyecto\Fase 1\PC.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Pc
+
+Top level modules:
+	Pc
+
+} {} {}} {D:/Udg/CuartoSemestre/Practicas de Arqui/Proyecto/Fase 1/Banco_Registros.v} {1 {vlog -work work -stats=none {D:\Udg\CuartoSemestre\Practicas de Arqui\Proyecto\Fase 1\Banco_Registros.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module bank
+
+Top level modules:
+	bank
+
+} {} {}} {D:/Udg/CuartoSemestre/Practicas de Arqui/Proyecto/Fase 1/Unidad_Control.v} {1 {vlog -work work -stats=none {D:\Udg\CuartoSemestre\Practicas de Arqui\Proyecto\Fase 1\Unidad_Control.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ControlUnit
+
+Top level modules:
+	ControlUnit
+
+} {} {}} {D:/Udg/CuartoSemestre/Practicas de Arqui/Proyecto/Fase 1/Sign_Extend.v} {1 {vlog -work work -stats=none {D:\Udg\CuartoSemestre\Practicas de Arqui\Proyecto\Fase 1\Sign_Extend.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Sign_Extend
+
+Top level modules:
+	Sign_Extend
+
+} {} {}} {D:/Udg/CuartoSemestre/Practicas de Arqui/Proyecto/Fase 1/Adder.v} {1 {vlog -work work -stats=none {D:\Udg\CuartoSemestre\Practicas de Arqui\Proyecto\Fase 1\Adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} {D:/Udg/CuartoSemestre/Practicas de Arqui/Proyecto/Fase 1/MuxAdder.v} {1 {vlog -work work -stats=none {D:\Udg\CuartoSemestre\Practicas de Arqui\Proyecto\Fase 1\MuxAdder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MuxAdder
+
+Top level modules:
+	MuxAdder
+
+} {} {}} {D:/Udg/CuartoSemestre/Practicas de Arqui/Proyecto/Fase 1/ALU_Control.v} {1 {vlog -work work -stats=none {D:\Udg\CuartoSemestre\Practicas de Arqui\Proyecto\Fase 1\ALU_Control.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_Control
+
+Top level modules:
+	ALU_Control
+
+} {} {}} {D:/Udg/CuartoSemestre/Practicas de Arqui/Proyecto/Fase 1/Shift_left2.v} {1 {vlog -work work -stats=none {D:\Udg\CuartoSemestre\Practicas de Arqui\Proyecto\Fase 1\Shift_left2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Shift_left
+
+Top level modules:
+	Shift_left
+
+} {} {}} {D:/Udg/CuartoSemestre/Practicas de Arqui/Proyecto/Fase 1/Write_Back.v} {1 {vlog -work work -stats=none {D:\Udg\CuartoSemestre\Practicas de Arqui\Proyecto\Fase 1\Write_Back.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Write_Back
+
+Top level modules:
+	Write_Back
+
+} {} {}} {D:/Udg/CuartoSemestre/Practicas de Arqui/Proyecto/Fase 1/Proyect_Tb.v} {1 {vlog -work work -stats=none {D:/Udg/CuartoSemestre/Practicas de Arqui/Proyecto/Fase 1/Proyect_Tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module proyecto_tb
+
+Top level modules:
+	proyecto_tb
+
+} {} {}}
